@@ -1,0 +1,43 @@
+.kutu1 {
+    background-color: #EEEEEE;
+    text-align: center;
+    margin: 0 5%;
+    font-size: medium;    
+    height: 70px;
+}
+.kutu1>button {
+    font-size: small;
+}
+
+.kutu2 {float: left;
+  background-color:#7EE5DA ; 
+  width: 37%;
+  height: 74px;
+  margin-right: 2px;
+}
+.kutu3 {float: left;
+background-color: #70ccc2;
+width: 19%;
+height: 74px;
+font-size: small;
+margin-right: 2px;
+}
+
+.kutu4 {float: left;
+    background-color: #62b3aa;
+    width: 42%; height: 74px;
+    font-size: small;
+    line-height: 0px;
+    font-size: -1;
+    margin-right: 2px;
+}
+
+.div2 {
+    text-align: center;
+    margin-right: 45px;
+    line-height: 0px;
+    margin-left: 68px;
+    margin-top: 3px;
+
+    
+}
